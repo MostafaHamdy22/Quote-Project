@@ -40,7 +40,7 @@ public class LogInActivity extends Activity {
 
         callbackManager = CallbackManager.Factory.create();
         setContentView(R.layout.activity_log_in);
-        Log.e("MY KEY HASH:", "ac");
+        Log.e("MY KEY HASH:", "hello");
 
 
         loginButton = (LoginButton)findViewById(R.id.login_button);

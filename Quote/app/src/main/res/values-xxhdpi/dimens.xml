@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cell_height">227dp</dimen> // 693px
+    <dimen name="image_height">167dp </dimen> //501px
+   <dimen name="button_hieght">30dp</dimen> // 89px
+    <dimen name="quote_height">199dp</dimen> // 89 px
+    <dimen name="avatar_marginTop">178dp</dimen>
+    <dimen name="avatar_marginLeft">3dp</dimen>
+    <dimen name="username_margintop">203dp</dimen>
+    <dimen name="username_marginleft">54.67dp</dimen>
+    <dimen name="quote_marginbottom">15dp</dimen>
+</resources>

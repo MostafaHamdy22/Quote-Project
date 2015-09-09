@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="193.67dp"
+
+    android:background="@android:color/holo_orange_dark"
+
+    >
+
+
+
+  <de.hdodenhof.circleimageview.CircleImageView
+
+      android:layout_width="@dimen/profile_picture_w"
+      android:layout_height="@dimen/profile_picture_h"
+      android:src="@android:drawable/btn_dialog"
+      android:layout_centerHorizontal="true"
+      android:layout_marginBottom="@dimen/profile_picture_margin_bottom"
+      android:layout_marginTop="@dimen/profile_picture_margin_top"
+      android:id="@+id/cir"
+      />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:layout_marginBottom="25.67dp"
+        android:text="hello wolrd"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:id="@+id/name" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="163.33dp"
+        android:text="hello wolrd"
+        android:textSize="15dp"
+        android:gravity="center"
+
+
+        android:id="@+id/job" />
+
+
+
+
+
+
+
+</RelativeLayout>
